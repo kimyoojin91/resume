@@ -18,7 +18,7 @@
 
 # 보유기술 및 사용가능 라이브러리
  * Objective-c
- * svn 소스 형상관리 (Cornerstone, Xcode)
+ * svn(Cornerstone, Xcode)
  * Autolayout(Storyboard, xib & Code Base)
  * WKWebView, Javascript Bridge
  * image downloading and caching (SDWebImage)
