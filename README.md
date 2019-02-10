@@ -31,7 +31,6 @@
  * Fabric Crashlytics
  * Google Analytics
  * CocoaAsyncSocket
- * CocoaAsyncSocket
  * Universal Link
 
 # iOS 프로젝트
