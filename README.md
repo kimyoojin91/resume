@@ -32,13 +32,14 @@
  * Google Analytics
  * CocoaAsyncSocket
  * Universal Link
+ * Zeplin을 통한 UI/UX 작업
 
 # iOS 프로젝트
 
 > #### 아리따움
 > * 소속 : 아모레퍼시픽
 > * 소개 : 쇼핑몰 Hybrid 앱
-> * 역할 : iOS 앱 리뉴얼 개발 및 운영 - 메인화면, QRcode Recognition, GPS, FCM, Javascript Bridge
+> * 역할 : iOS 앱 리뉴얼 개발 및 운영 - 메인화면, QRcode Recognition, GPS 사용에 따른 가까운 매장 DB 추출, FCM, Javascript Bridge
 > * 기간 : 2018.06 ~ now
 > * AppStore : https://itunes.apple.com/kr/app/%EC%95%84%EB%A6%AC%EB%94%B0%EC%9B%80/id821400042?mt=8
 
