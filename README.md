@@ -40,9 +40,9 @@
 > * 소속 : 아모레퍼시픽
 > * 소개 : 쇼핑몰 Hybrid 앱
 > * 역할 : iOS 앱 리뉴얼 개발 및 운영 
- ** 메인화면 작업
- - QRcode Recognition
- - GPS 서비스
+  메인화면 작업
+  QRcode Recognition
+  GPS 서비스
  - 매장 DB설계 및 추출
  - FCM
  - WKWebview을 통한 웹뷰 개발
