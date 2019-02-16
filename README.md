@@ -4,7 +4,7 @@
 
 # 이력서
 
-* Github : https://github.com/kimyoojin91
+* Github : https://github.com/kimyoojin91/resume
 
 # 자격사항
 
