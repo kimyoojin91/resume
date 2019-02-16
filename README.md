@@ -39,21 +39,42 @@
 > #### 아리따움
 > * 소속 : 아모레퍼시픽
 > * 소개 : 쇼핑몰 Hybrid 앱
-> * 역할 : iOS 앱 리뉴얼 개발 및 운영 - 메인화면, QRcode Recognition, GPS 사용에 따른 가까운 매장 DB 추출, FCM, Javascript Bridge
+> * 역할 : iOS 앱 리뉴얼 개발 및 운영 
+ - 메인화면 작업
+ - QRcode Recognition
+ - GPS 서비스
+ - 매장 DB설계 및 추출
+ - FCM
+ - WKWebview을 통한 웹뷰 개발
+ - Javascript Bridge
+ - Google Analytics 태깅 작업
+ - Universal Link
 > * 기간 : 2018.06 ~ now
 > * AppStore : https://itunes.apple.com/kr/app/%EC%95%84%EB%A6%AC%EB%94%B0%EC%9B%80/id821400042?mt=8
 
 > #### 아모레퍼시픽몰
 > * 소속 : 아모레퍼시픽
 > * 소개 : 쇼핑몰 Hybrid 앱
-> * 역할 : iOS 앱 리뉴얼 개발 및 안정화 - 메인화면, 공통 헤더 및 푸터 작업, Remote Notification, REST API
+> * 역할 : iOS 앱 리뉴얼 개발 및 안정화 
+ - 메인화면 작업 
+ - 카테고리 화면 작업
+ - SNS 로그인 화면 및 기능
+ - 공통 헤더 및 푸터 인터페이스 작업
+ - Remote Notification
+ - REST API
+ - Universal Link
 > * 기간 : 2017.08 ~ 2018.02
 > * 새 버전으로 업데이트 됨.
 
 > #### E-LabNote
 > * 소속 : 아모레퍼시픽
 > * 소개 : 연구원 연구 기록 노트 및 서버 저장 기능 Native 앱
-> * 역할 : iPad 앱 개발 - UICollectionView와 UITableView를 이용한 Excell 기능 시트 화면, ACEDrawingView
+> * 역할 : iPad 앱 개발 
+ - Storyboard
+ - UICollectionView와 UITableView를 이용한 Excell 기능 시트 화면 개발
+ - ACEDrawingView
+ - Rest API(로그인, 로그아웃, 연구 기록 데이터 통신)
+ 
 > * 기간 : 2017.06 ~ 2017.08
 > * Enterprise 사내 배포.
 
@@ -67,28 +88,43 @@
 > #### 카옥션
 > * 소속 : 오토핸즈
 > * 소개 : 중고 자동차 실시간 경매 Native 앱
-> * 역할 : iOS 앱 개발 - Socket 통신, 실시간 경매 화면, AudioToolBox
+> * 역할 : iOS 앱 개발 
+ - 로그인/자동차 정보 Socket 통신
+ - 실시간 자동차 경매 화면 및 기능
+ - 경매 불찰/낙찰 등에 따른 오디오 작업(AudioToolBox) 
 > * 기간 : 2016.12 ~ 2017.02
 > * Enterprise 사내 배포.
 
 > #### 오토인사이드
 > * 소속 : 오토핸즈
 > * 소개 : 중고차 거래 서비스 Hybrid 앱
-> * 역할 : iOS 앱 개발 - Javascript Bridge, webView toolbar, AddresssBookUI, Rest API, MessageUI
+> * 역할 : iOS 앱 개발 
+  - Javascript Bridge
+  - webView toolbar
+  - 사용자 iPhone 연락처 호환 (AddresssBookUI)
+  - iPhone 메세지 전송 호환 (MessageUI)
+  - Rest API
 > * 기간 : 2016.08 ~ 2016.12
 > * AppStore : https://itunes.apple.com/kr/app/%EC%98%A4%ED%86%A0%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B6%84%EC%A2%8B%EC%9D%80-%EB%82%B4%EC%B0%A8%ED%8C%94%EA%B8%B0/id1178489458?mt=8
 
 > #### 카노트
 > * 소속 : 오토핸즈
 > * 소개 : 중고차 정보 서비스 Hybrid 앱
-> * 역할 : iOS 앱 개발 - Javascript Bridge, WebView toolbar, ContactsUI, AddresssBookUI, Rest API
+> * 역할 : iOS 앱 개발 
+  - Javascript Bridge
+  - WebView toolbar
+  - 사용자 iPhone 연락처 정보 (ContactsUI, AddresssBookUI)
+  - Rest API
 > * 기간 : 2016.06 ~ 2017.12
 > * AppStore : https://itunes.apple.com/kr/app/%EC%B9%B4%EB%85%B8%ED%8A%B8-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%AC%EC%A0%81-%EC%A4%91%EA%B3%A0%EC%B0%A8-%EC%A0%95%EB%B3%B4-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC/id1167915437?mt=8
 
 > #### 아리따움O2O
 > * 소속 : 아모레퍼시픽
 > * 소개 : 매장 직원용 서비스 Hybrid 앱
-> * 역할 : iOS 앱 개발 및 유지보수 - Javascript Bridge, Remote Notification 
+> * 역할 : iOS 앱 개발 및 유지보수
+  - Push를 통한 메세지 정보 스케줄러를 통해 custom 팝업 동작
+  - Remote Notification 
+  - Javascript Bridge
 > * 기간 : 2016.05 ~ 2017.10
 > * Enterprise 사내 배포. 서비스 종료.
 
