@@ -51,6 +51,7 @@
 >   * Universal Link
 > * 기간 : 2018.06 ~ now
 > * AppStore : https://itunes.apple.com/kr/app/%EC%95%84%EB%A6%AC%EB%94%B0%EC%9B%80/id821400042?mt=8
+> * 판매량/평점(리뉴얼 배포 이후) : __100만대 이상 / 4.7__
 
 > #### 아모레퍼시픽몰
 > * 소속 : 아모레퍼시픽
