@@ -17,8 +17,10 @@
  * iOS 개발 및 유지보수 담당
 
 # 보유기술 및 사용가능 라이브러리
- * Objective-c
- * svn(Cornerstone, Xcode)
+ * 사용언어
+ > Objective-c, Swift
+ * 형상관리 Tool 
+ > svn(Cornerstone, Xcode), Git(Source Tree)
  * Autolayout(Storyboard, xib & Code Base)
  * WKWebView, Javascript Bridge
  * image downloading and caching (SDWebImage)
@@ -35,6 +37,21 @@
  * Zeplin을 통한 UI/UX 작업
 
 # iOS 프로젝트
+
+> #### 에브리싱
+> * 소속 : (주)에브리싱
+> * 소개 : 음원 노래방 서비스 앱
+> * 역할 : iOS 앱 개발 및 운영
+>   * 노래방 녹화 화면 AVPlayer 작업
+>   * 가창 음질 향상 작업
+>   * Apple Store 유료결제 서비스 작업 
+>   * FCM
+>   * Remote Notification
+>   * Google Analytics 태깅 작업
+>   * Universal Link
+> * 기간 : 2019.04 ~ now
+> * AppStore : https://itunes.apple.com/kr/app/%EC%95%84%EB%A6%AC%EB%94%B0%EC%9B%80/id821400042?mt=8
+> * 판매량/평점(리뉴얼 배포 이후) : __100만대 이상 / 4.7__
 
 > #### 아리따움
 > * 소속 : 아모레퍼시픽
