@@ -12,6 +12,10 @@
 
 # 경력사항
 
+#### [(주)에브리싱](https://www.everysing.com)
+ * 2019.04 ~ now
+ * iOS 개발 및 유지보수 담당
+
  #### [(주)아이시프트](http://www.ishift.co.kr)
  * 2016.04 ~ now
  * iOS 개발 및 유지보수 담당
