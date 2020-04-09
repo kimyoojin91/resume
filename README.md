@@ -54,8 +54,7 @@
 >   * Google Analytics 태깅 작업
 >   * Universal Link
 > * 기간 : 2019.04 ~ now
-> * AppStore : https://itunes.apple.com/kr/app/%EC%95%84%EB%A6%AC%EB%94%B0%EC%9B%80/id821400042?mt=8
-> * 판매량/평점(리뉴얼 배포 이후) : __100만대 이상 / 4.7__
+> * AppStore : https://apps.apple.com/kr/app/%EC%97%90%EB%B8%8C%EB%A6%AC%EC%8B%B1-no-1-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%85%B8%EB%9E%98%EB%B0%A9/id1496072506
 
 > #### 아리따움
 > * 소속 : 아모레퍼시픽
